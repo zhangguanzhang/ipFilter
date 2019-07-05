@@ -1,0 +1,435 @@
+[15:04:49]Initiator:
+[15:04:49]  Source      IP/port: 172.16.33.10/17257
+[15:04:49]  Destination IP/port: 59.56.66.84/25000
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: mrr7skgnp8e1o8huotr00kf9a/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation1.1218
+[15:04:49]  Source security zone: QRD5R3WABI6SUFW6Z7FEF6KDQM
+[15:04:49]Responder:
+[15:04:49]  Source      IP/port: 59.56.66.84/25000
+[15:04:49]  Destination IP/port: 111.166.23.132/27310
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: external_vpn/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation2
+[15:04:49]  Source security zone: EXTERNAL
+[15:04:49]State: INACTIVE
+[15:04:49]Application: GENERAL_TCP
+[15:04:49]Start time: 2019-07-05 15:02:25  TTL: 156s
+[15:04:49]Initiator->Responder:            0 packets          0 bytes
+[15:04:49]Responder->Initiator:            0 packets          0 bytes
+[15:04:49]
+[15:04:49]Initiator:     
+[15:04:49]  Source      IP/port: 172.16.33.10/60543
+[15:04:49]  Destination IP/port: 59.56.66.84/25000
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: mrr7skgnp8e1o8huotr00kf9a/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation1.1218
+[15:04:49]  Source security zone: QRD5R3WABI6SUFW6Z7FEF6KDQM
+[15:04:49]Responder:
+[15:04:49]  Source      IP/port: 59.56.66.84/25000
+[15:04:49]  Destination IP/port: 111.166.23.132/28065
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: external_vpn/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation2
+[15:04:49]  Source security zone: EXTERNAL
+[15:04:49]State: INACTIVE
+[15:04:49]Application: GENERAL_TCP
+[15:04:49]Start time: 2019-07-05 15:02:25  TTL: 156s
+[15:04:49]Initiator->Responder:            0 packets          0 bytes
+[15:04:49]Responder->Initiator:            0 packets          0 bytes
+[15:04:49]
+[15:04:49]Initiator:
+[15:04:49]  Source      IP/port: 123.207.140.60/7946
+[15:04:49]  Destination IP/port: 103.120.227.202/7946
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: external_vpn/-/-
+[15:04:49]  Protocol: UDP(17)
+[15:04:49]  Inbound interface: Route-Aggregation2
+[15:04:49]  Source security zone: EXTERNAL
+[15:04:49]Responder:
+[15:04:49]  Source      IP/port: 103.120.227.202/7946
+[15:04:49]  Destination IP/port: 123.207.140.60/7946
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: external_vpn/-/-
+[15:04:49]  Protocol: UDP(17)
+[15:04:49]  Inbound interface: Route-Aggregation2
+[15:04:49]  Source security zone: EXTERNAL
+[15:04:49]State: INACTIVE
+[15:04:49]Application: GENERAL_UDP
+[15:04:49]Start time: 2019-07-05 15:04:37  TTL: 289s
+[15:04:49]Initiator->Responder:            0 packets          0 bytes
+[15:04:49]Responder->Initiator:            0 packets          0 bytes
+[15:04:49]
+[15:04:49]Initiator:
+[15:04:49]  Source      IP/port: 172.16.33.10/34343
+[15:04:49]  Destination IP/port: 103.120.224.146/8084
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: 3tjnghr9d08qe80e3eu99k62qs/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation1.1192
+[15:04:49]  Source security zone: QA4G54STIMFVY7M54EO2LICGTQ
+[15:04:49]Responder:
+[15:04:49]  Source      IP/port: 103.120.224.146/8084
+[15:04:49]  Destination IP/port: 103.120.224.146/34343
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: external_vpn/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation2
+[15:04:49]  Source security zone: EXTERNAL
+[15:04:49]State: INACTIVE
+[15:04:49]Application: GENERAL_TCP
+[15:04:49]Start time: 2019-07-05 15:04:41  TTL: 292s
+[15:04:49]Initiator->Responder:            0 packets          0 bytes
+[15:04:49]Responder->Initiator:            0 packets          0 bytes
+[15:04:49]
+[15:04:49]Initiator:
+[15:04:49]  Source      IP/port: 172.16.33.10/62158
+[15:04:49]  Destination IP/port: 59.56.66.84/25000
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: mrr7skgnp8e1o8huotr00kf9a/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation1.1218
+[15:04:49]  Source security zone: QRD5R3WABI6SUFW6Z7FEF6KDQM
+[15:04:49]Responder:
+[15:04:49]  Source      IP/port: 59.56.66.84/25000
+[15:04:49]  Destination IP/port: 111.166.23.132/27698
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: external_vpn/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation2
+[15:04:49]  Source security zone: EXTERNAL
+[15:04:49]State: INACTIVE
+[15:04:49]Application: GENERAL_TCP
+[15:04:49]Start time: 2019-07-05 15:02:25  TTL: 156s
+[15:04:49]Initiator->Responder:            0 packets          0 bytes
+[15:04:49]Responder->Initiator:            0 packets          0 bytes
+[15:04:49]
+[15:04:49]Initiator:
+[15:04:49]  Source      IP/port: 172.16.33.10/51471
+[15:04:49]  Destination IP/port: 59.56.66.84/25000
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: mrr7skgnp8e1o8huotr00kf9a/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation1.1218
+[15:04:49]  Source security zone: QRD5R3WABI6SUFW6Z7FEF6KDQM
+[15:04:49]Responder:
+[15:04:49]  Source      IP/port: 59.56.66.84/25000
+[15:04:49]  Destination IP/port: 111.166.23.132/1176
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: external_vpn/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation2
+[15:04:49]  Source security zone: EXTERNAL
+[15:04:49]State: INACTIVE
+[15:04:49]Application: GENERAL_TCP
+[15:04:49]Start time: 2019-07-05 15:02:25  TTL: 156s
+[15:04:49]Initiator->Responder:            0 packets          0 bytes
+[15:04:49]Responder->Initiator:            0 packets          0 bytes
+[15:04:49]
+[15:04:49]Initiator:
+[15:04:49]  Source      IP/port: 54.65.168.187/57864
+[15:04:49]  Destination IP/port: 103.36.30.195/8001
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: external_vpn/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation2
+[15:04:49]  Source security zone: EXTERNAL
+[15:04:49]Responder:
+[15:04:49]  Source      IP/port: 192.168.10.6/8001
+[15:04:49]  Destination IP/port: 54.65.168.187/57864
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: 5s5r5un0k38nfbvm3mbsuvki9t/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation1.1165
+[15:04:49]  Source security zone: X7MHMXZ57JET3PBOZPVYFA2F3Y
+[15:04:49]State: INACTIVE
+[15:04:49]Application: GENERAL_TCP
+[15:04:49]Start time: 2019-07-05 14:17:51  TTL: 156s
+[15:04:49]Initiator->Responder:            0 packets          0 bytes
+[15:04:49]Responder->Initiator:            0 packets          0 bytes
+[15:04:49]
+[15:04:49]Initiator:
+[15:04:49]  Source      IP/port: 172.16.33.10/26137
+[15:04:49]  Destination IP/port: 59.56.66.84/25000
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: mrr7skgnp8e1o8huotr00kf9a/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation1.1218
+[15:04:49]  Source security zone: QRD5R3WABI6SUFW6Z7FEF6KDQM
+[15:04:49]Responder:
+[15:04:49]  Source      IP/port: 59.56.66.84/25000
+[15:04:49]  Destination IP/port: 111.166.23.132/3402
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: external_vpn/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation2
+[15:04:49]  Source security zone: EXTERNAL
+[15:04:49]State: INACTIVE
+[15:04:49]Application: GENERAL_TCP
+[15:04:49]Start time: 2019-07-05 15:02:25  TTL: 156s
+[15:04:49]Initiator->Responder:            0 packets          0 bytes
+[15:04:49]Responder->Initiator:            0 packets          0 bytes
+[15:04:49]
+[15:04:49]Initiator:
+[15:04:49]  Source      IP/port: 172.16.33.10/51605
+[15:04:49]  Destination IP/port: 59.56.66.84/25000
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: mrr7skgnp8e1o8huotr00kf9a/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation1.1218
+[15:04:49]  Source security zone: QRD5R3WABI6SUFW6Z7FEF6KDQM
+[15:04:49]Responder:
+[15:04:49]  Source      IP/port: 59.56.66.84/25000
+[15:04:49]  Destination IP/port: 111.166.23.132/20762
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: external_vpn/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation2
+[15:04:49]  Source security zone: EXTERNAL
+[15:04:49]State: INACTIVE
+[15:04:49]Application: GENERAL_TCP
+[15:04:49]Start time: 2019-07-05 15:02:24  TTL: 156s
+[15:04:49]Initiator->Responder:            0 packets          0 bytes
+[15:04:49]Responder->Initiator:            0 packets          0 bytes
+[15:04:49]
+[15:04:49]Initiator:
+[15:04:49]  Source      IP/port: 172.16.33.10/62036
+[15:04:49]  Destination IP/port: 59.56.66.84/25000
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: mrr7skgnp8e1o8huotr00kf9a/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation1.1218
+[15:04:49]  Source security zone: QRD5R3WABI6SUFW6Z7FEF6KDQM
+[15:04:49]Responder:     
+[15:04:49]  Source      IP/port: 59.56.66.84/25000
+[15:04:49]  Destination IP/port: 111.166.23.132/20529
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: external_vpn/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation2
+[15:04:49]  Source security zone: EXTERNAL
+[15:04:49]State: INACTIVE
+[15:04:49]Application: GENERAL_TCP
+[15:04:49]Start time: 2019-07-05 15:02:24  TTL: 156s
+[15:04:49]Initiator->Responder:            0 packets          0 bytes
+[15:04:49]Responder->Initiator:            0 packets          0 bytes
+[15:04:49]
+[15:04:49]Initiator:
+[15:04:49]  Source      IP/port: 54.65.168.187/33288
+[15:04:49]  Destination IP/port: 103.120.226.227/8081
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: external_vpn/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation2
+[15:04:49]  Source security zone: EXTERNAL
+[15:04:49]Responder:
+[15:04:49]  Source      IP/port: 172.16.10.9/8081
+[15:04:49]  Destination IP/port: 54.65.168.187/33288
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: 2hh225r3kv87ea22gqrtddq342/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation1.1186
+[15:04:49]  Source security zone: UEFBVX223UGIEUMIQROY5H2B3Q
+[15:04:49]State: INACTIVE
+[15:04:49]Application: GENERAL_TCP
+[15:04:49]Start time: 2019-07-05 14:38:24  TTL: 200s
+[15:04:49]Initiator->Responder:            0 packets          0 bytes
+[15:04:49]Responder->Initiator:            0 packets          0 bytes
+[15:04:49]
+[15:04:49]Initiator:
+[15:04:49]  Source      IP/port: 54.65.168.187/60225
+[15:04:49]  Destination IP/port: 111.166.23.14/8090
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: external_vpn/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation2
+[15:04:49]  Source security zone: EXTERNAL
+[15:04:49]Responder:
+[15:04:49]  Source      IP/port: 10.40.10.4/8090
+[15:04:49]  Destination IP/port: 54.65.168.187/60225
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: 8g6nivb6n891b2m9gqa8deklm/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation1.1030
+[15:04:49]  Source security zone: WFMTBUUQ25JLMCEBV4X2ZV2CII
+[15:04:49]State: INACTIVE
+[15:04:49]Application: GENERAL_TCP
+[15:04:49]Start time: 2019-07-05 14:29:35  TTL: 266s
+[15:04:49]Initiator->Responder:            0 packets          0 bytes
+[15:04:49]Responder->Initiator:            0 packets          0 bytes
+[15:04:49]
+[15:04:49]Initiator:
+[15:04:49]  Source      IP/port: 172.16.33.10/55076
+[15:04:49]  Destination IP/port: 59.56.66.84/25000
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: mrr7skgnp8e1o8huotr00kf9a/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation1.1218
+[15:04:49]  Source security zone: QRD5R3WABI6SUFW6Z7FEF6KDQM
+[15:04:49]Responder:
+[15:04:49]  Source      IP/port: 59.56.66.84/25000
+[15:04:49]  Destination IP/port: 111.166.23.132/29716
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: external_vpn/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation2
+[15:04:49]  Source security zone: EXTERNAL
+[15:04:49]State: INACTIVE
+[15:04:49]Application: GENERAL_TCP
+[15:04:49]Start time: 2019-07-05 15:02:25  TTL: 156s
+[15:04:49]Initiator->Responder:            0 packets          0 bytes
+[15:04:49]Responder->Initiator:            0 packets          0 bytes
+[15:04:49]
+[15:04:49]Initiator:
+[15:04:49]  Source      IP/port: 172.16.33.10/63598
+[15:04:49]  Destination IP/port: 59.56.66.84/25000
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: mrr7skgnp8e1o8huotr00kf9a/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation1.1218
+[15:04:49]  Source security zone: QRD5R3WABI6SUFW6Z7FEF6KDQM
+[15:04:49]Responder:
+[15:04:49]  Source      IP/port: 59.56.66.84/25000
+[15:04:49]  Destination IP/port: 111.166.23.132/15795
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: external_vpn/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation2
+[15:04:49]  Source security zone: EXTERNAL
+[15:04:49]State: INACTIVE
+[15:04:49]Application: GENERAL_TCP
+[15:04:49]Start time: 2019-07-05 15:02:24  TTL: 155s
+[15:04:49]Initiator->Responder:            0 packets          0 bytes
+[15:04:49]Responder->Initiator:            0 packets          0 bytes
+[15:04:49]
+[15:04:49]Initiator:
+[15:04:49]  Source      IP/port: 172.16.33.10/50095
+[15:04:49]  Destination IP/port: 59.56.66.84/25000
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: mrr7skgnp8e1o8huotr00kf9a/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation1.1218
+[15:04:49]  Source security zone: QRD5R3WABI6SUFW6Z7FEF6KDQM
+[15:04:49]Responder:
+[15:04:49]  Source      IP/port: 59.56.66.84/25000
+[15:04:49]  Destination IP/port: 111.166.23.132/28094
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: external_vpn/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation2
+[15:04:49]  Source security zone: EXTERNAL
+[15:04:49]State: INACTIVE
+[15:04:49]Application: GENERAL_TCP
+[15:04:49]Start time: 2019-07-05 15:02:25  TTL: 155s
+[15:04:49]Initiator->Responder:            0 packets          0 bytes
+[15:04:49]Responder->Initiator:            0 packets          0 bytes
+[15:04:49]
+[15:04:49]Initiator:
+[15:04:49]  Source      IP/port: 139.214.254.124/36251
+[15:04:49]  Destination IP/port: 103.36.30.152/8082
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: external_vpn/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation2
+[15:04:49]  Source security zone: EXTERNAL
+[15:04:49]Responder:
+[15:04:49]  Source      IP/port: 172.31.100.12/8082
+[15:04:49]  Destination IP/port: 139.214.254.124/36251
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: 5bi2t6lqj389j9cj4d5gkj5bpb/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation1.1170
+[15:04:49]  Source security zone: SZGI2LBJGKXSXK4QXJVOUY2CMY
+[15:04:49]State: INACTIVE
+[15:04:49]Application: GENERAL_TCP
+[15:04:49]Start time: 2019-07-05 14:42:27  TTL: 145s
+[15:04:49]Initiator->Responder:            0 packets          0 bytes
+[15:04:49]Responder->Initiator:            0 packets          0 bytes
+[15:04:49]
+[15:04:49]Initiator:
+[15:04:49]  Source      IP/port: 113.204.233.34/22617
+[15:04:49]  Destination IP/port: 220.194.70.81/443
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: external_vpn/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation2
+[15:04:49]  Source security zone: EXTERNAL
+[15:04:49]Responder:
+[15:04:49]  Source      IP/port: 10.10.1.7/443
+[15:04:49]  Destination IP/port: 113.204.233.34/22617
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: 2vqqkv0d0n8l7q00n30rmisdmt/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation1.1060
+[15:04:49]  Source security zone: UABOGBXNFY3N2X6WVHYDIF2FJ4
+[15:04:49]State: INACTIVE
+[15:04:49]Application: HTTPS
+[15:04:49]Start time: 2019-07-05 15:03:47  TTL: 237s
+[15:04:49]Initiator->Responder:            0 packets          0 bytes
+[15:04:49]Responder->Initiator:            0 packets          0 bytes
+[15:04:49]
+[15:04:49]Initiator:
+[15:04:49]  Source      IP/port: 124.160.24.242/29483
+[15:04:49]  Destination IP/port: 220.194.70.81/443
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: external_vpn/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation2
+[15:04:49]  Source security zone: EXTERNAL
+[15:04:49]Responder:
+[15:04:49]  Source      IP/port: 10.10.1.7/443
+[15:04:49]  Destination IP/port: 124.160.24.242/29483
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: 2vqqkv0d0n8l7q00n30rmisdmt/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation1.1060
+[15:04:49]  Source security zone: UABOGBXNFY3N2X6WVHYDIF2FJ4
+[15:04:49]State: INACTIVE
+[15:04:49]Application: HTTPS
+[15:04:49]Start time: 2019-07-05 15:04:19  TTL: 269s
+[15:04:49]Initiator->Responder:            0 packets          0 bytes
+[15:04:49]Responder->Initiator:            0 packets          0 bytes
+[15:04:49]
+[15:04:49]Initiator:
+[15:04:49]  Source      IP/port: 54.65.168.187/36990
+[15:04:49]  Destination IP/port: 103.36.28.140/8443
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: external_vpn/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation2
+[15:04:49]  Source security zone: EXTERNAL
+[15:04:49]Responder:
+[15:04:49]  Source      IP/port: 10.10.10.243/443
+[15:04:49]  Destination IP/port: 54.65.168.187/36990
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: 64v19j9ilo93fbcrav1afmgeor/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation1.1084
+[15:04:49]  Source security zone: WZWV6CU7NA5RXRHYKM2MVOCI3Y
+[15:04:49]State: INACTIVE
+[15:04:49]Application: GENERAL_TCP
+[15:04:49]Start time: 2019-07-05 14:42:02  TTL: 120s
+[15:04:49]Initiator->Responder:            0 packets          0 bytes
+[15:04:49]Responder->Initiator:            0 packets          0 bytes
+[15:04:49]
+[15:04:49]Initiator:
+[15:04:49]  Source      IP/port: 10.7.7.4/57712
+[15:04:49]  Destination IP/port: 10.102.34.12/5672
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: 4tq48i1ndf9vua88b3p8icsdo2/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation1.1203
+[15:04:49]  Source security zone: UQQWHSREZY3QFHORCEQN3L2P7Q
+[15:04:49]Responder:
+[15:04:49]  Source      IP/port: 10.102.34.12/5672
+[15:04:49]  Destination IP/port: 103.120.224.138/20699
+[15:04:49]  DS-Lite tunnel peer: -
+[15:04:49]  VPN instance/VLAN ID/Inline ID: external_vpn/-/-
+[15:04:49]  Protocol: TCP(6)
+[15:04:49]  Inbound interface: Route-Aggregation2
+[15:04:49]  Source security zone: EXTERNAL
+[15:04:49]State: INACTIVE
